@@ -1,0 +1,5 @@
+{
+  "name": "Anti-Pop Circuit Visualizer",
+  "description": "A 3D-style interactive visualizer for a TPA3116 amplifier anti-pop circuit. Designed for beginners to understand electronics concepts through simulation.",
+  "requestFramePermissions": []
+}
